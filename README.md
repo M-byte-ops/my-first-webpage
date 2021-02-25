@@ -79,7 +79,7 @@ overflow: scroll;
 #footer{
 background-image: url(color.jpg);
 margin: 10px;
-height:60px;
+height:100px;
 border-radius:10px;
 color:black;
 text-align: center;
@@ -195,7 +195,6 @@ comments:
 <br>
 <br>
 <input type="submit" value="submit">
-
 </form>
 </div>
 
