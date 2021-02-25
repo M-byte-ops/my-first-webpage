@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>My First Webpage</title>
+   
 <style>
 
 #nav{
@@ -151,7 +152,11 @@ font-size: 100%;
 <br>
 Gender:
 <br>
-<input type="checkbox" name="">male &nbsp &nbsp <input type="checkbox" name="">female &nbsp &nbsp <input type="checkbox" name="">transgender
+<input type="checkbox" name="">male 
+<br>
+<input type="checkbox" name="">female 
+<br>
+<input type="checkbox" name="">transgender
 
 
 
@@ -189,6 +194,7 @@ comments:
 <textarea rows="15" cols="80"></textarea>
 </br>
 <input type="submit" value="submit">
+
 </form>
 </div>
 
