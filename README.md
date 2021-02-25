@@ -44,7 +44,7 @@ background-image: url(sea.jpg);
 background-image: url(tourist.jpg);
 }
 
-h1, h2, h3{
+h1,h2,h3{
 color: black;
 background-color:pink;
 padding: 15px 15px 15px 15px;
@@ -143,11 +143,8 @@ font-size: 100%;
 <input type="text" id="First name" name="">
 <br>
 <br>
-
 <label for="Last name">Last name:</label>
 <input type="text" id="Last name" name="">
-<br>
-
 <br>
 <br>
 Gender:
@@ -157,8 +154,8 @@ Gender:
 <input type="checkbox" name="">female 
 <br>
 <input type="checkbox" name="">transgender
-
-
+<br>
+<br>
 
 <p>Are u willing to accept our services?</p>
 yes:
