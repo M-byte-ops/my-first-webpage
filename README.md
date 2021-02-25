@@ -192,7 +192,8 @@ comments:
 <br>
 <br>
 <textarea rows="15" cols="80"></textarea>
-</br>
+<br>
+<br>
 <input type="submit" value="submit">
 
 </form>
