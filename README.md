@@ -197,6 +197,7 @@ comments:
 <input type="submit" value="submit">
 </form>
 </div>
+</body>
 
 <div id="footer">
 &copy; 2014 Historyden.com 
@@ -208,5 +209,5 @@ All Rights Reserved
 <B>Contact:9876543210</B>
 </div>
 
-</body>
+
 </html>
