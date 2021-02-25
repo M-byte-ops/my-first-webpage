@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
 <head>
 <title>My First Webpage</title>
