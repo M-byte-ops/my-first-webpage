@@ -1,8 +1,7 @@
 
 <html>
-<head> 
-<title> my first webpage </title> 
-</head>
+<head>
+<title>My First Webpage</title>
    
 <style>
 
@@ -109,7 +108,7 @@ font-size: 100%;
 <P class="text 1"><b>Welcome to our tours and travels website.</b> 
 <br>
 <br>
-<b><Live with no excuses and Travel with no regrets</b>
+<b>Live with no excuses and Travel with no regrets</b>
 <br>
 <b>We assure you a safe and happy journey with full memories</b>
 <br>
