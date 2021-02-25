@@ -137,7 +137,7 @@ font-size: 100%;
 <div id="form">
 
 <h3>Give us your details</h3>
-<form action=""method"">
+<form action="" method="">
 
 <label for="First name">First name:</label>
 <input type="text" id="First name" name="">
