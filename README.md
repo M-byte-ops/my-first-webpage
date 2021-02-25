@@ -49,7 +49,6 @@ color: black;
 background-color:pink;
 padding: 15px 15px 15px 15px;
 font-family: verdana;
-font-size: 20px;
 font-weight: dark;
 border: black 2px solid;
 border-radius: 20px;
